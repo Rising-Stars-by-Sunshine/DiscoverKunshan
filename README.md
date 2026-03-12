@@ -12,7 +12,7 @@
 ## 📌 Purpose
 
 ### Community Problem
-Kunshan's vibrant street-level food culture is largely invisible in mainstream tourism and urban data platforms. Small independent eateries — often run by local families for decades — lack digital visibility and risk being overlooked as the city modernizes. There is no accessible, culturally rich resource that tells the *stories* behind these places.
+Kunshan's vibrant street-level food culture is largely invisible in mainstream tourism and urban data platforms. Small independent eateries, often run by local families for decades, lack digital visibility and risk being overlooked as the city modernizes. There is no accessible, culturally rich resource that tells the *stories* behind these places.
 
 ### Who This Serves
 - **Residents and visitors** seeking authentic local dining experiences
