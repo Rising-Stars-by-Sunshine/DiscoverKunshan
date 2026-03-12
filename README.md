@@ -2,6 +2,9 @@
 ### Interactive Cultural Food Map · INFO301 Final Project
 
 **Authors:** Weisheng Zhang, Jiaojiao Zhao
+
+**Instructor** Luyao Zhang
+
 **Live Demo:** https://jiaojiao-zhao.github.io/Info301-Final-Project/front.html
 
 ---
