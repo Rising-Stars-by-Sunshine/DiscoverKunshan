@@ -27,17 +27,19 @@ Interactive Cultural Food Map · INFO301 Final Project
 
 ---
 
-![Discover Kunshan Poster](posters/DiscoverKunshanPoster.png)
-
-Poster preview — [Download full PDF](posters/DiscoverKunshanPoster.pdf)
-
-
 ## Project Overview
 
 Discover Kunshan through a static, interactive cultural food map that blends geospatial storytelling with field-collected photography. This project highlights local eateries, community narratives, and neighborhood food walks across Kunshan, giving small vendors digital visibility without relying on third-party aggregator platforms.
 
 **Authors:** Weisheng Zhang, Jiaojiao Zhao  
 **Instructor:** Luyao Zhang
+ 
+<p align="center">
+   <img src="posters/DiscoverKunshanPoster.png" alt="Discover Kunshan Poster" width="360" />
+
+   <br>
+   Poster preview — [Download full PDF](posters/DiscoverKunshanPoster.pdf)
+</p>
 
 ---
 
