@@ -21,24 +21,7 @@ Interactive Cultural Food Map · INFO301 Final Project
 
 ### SDGs contributed
 
-<table>
-   <tr>
-      <td>
-         <img src="pictures/SDG4.jpg" alt="SDG 4" width="64" />
-         <img src="pictures/SDG8.jpg" alt="SDG 8" width="64" />
-         <img src="pictures/SDG11.jpg" alt="SDG 11" width="64" />
-         <img src="pictures/SDG17.jpg" alt="SDG 17" width="64" />
-
-         <br>
-         **🎓 SDG 4 — Quality Education** &nbsp;&nbsp; **💼 SDG 8 — Decent Work** &nbsp;&nbsp; **🏙️ SDG 11 — Sustainable Cities** &nbsp;&nbsp; **🤝 SDG 17 — Partnerships**
-      </td>
-      <td align="center">
-         <img src="posters/DiscoverKunshanPoster.png" alt="Discover Kunshan Poster" width="240" />
-         <br>
-         [Download full PDF](posters/DiscoverKunshanPoster.pdf)
-      </td>
-   </tr>
-</table>
+*(See poster and SDG contributions under Project Overview)*
 
 ---
 
@@ -49,6 +32,12 @@ Discover Kunshan through a static, interactive cultural food map that blends geo
 **Authors:** Weisheng Zhang, Jiaojiao Zhao  
 **Instructor:** Luyao Zhang
  
+<!-- SDG and poster table inserted below -->
+
+| SDGs contributed | Poster |
+| --- | --- |
+| <img src="pictures/SDG4.jpg" width="64" alt="SDG4" /> <img src="pictures/SDG8.jpg" width="64" alt="SDG8" /> <img src="pictures/SDG11.jpg" width="64" alt="SDG11" /> <img src="pictures/SDG17.jpg" width="64" alt="SDG17" /> <br> **🎓 SDG 4 — Quality Education** &nbsp; **💼 SDG 8 — Decent Work** &nbsp; **🏙️ SDG 11 — Sustainable Cities** &nbsp; **🤝 SDG 17 — Partnerships** | <a href="posters/DiscoverKunshanPoster.pdf"><img src="posters/DiscoverKunshanPoster.png" width="220" alt="Discover Kunshan Poster" /></a><br>[Download full PDF](posters/DiscoverKunshanPoster.pdf) |
+
 ---
 
 ## Why It Matters
