@@ -1,4 +1,4 @@
-# 🥢 Discover Kunshan · 昆山美食文化互动地图
+# 🥢 Discover Kunshan · 昆山美食文化互动地图  [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20577097-1abc9c)](https://doi.org/10.5281/zenodo.20577097)
 
 Interactive Cultural Food Map · INFO301 Final Project
 
@@ -152,3 +152,8 @@ Info301-Final-Project/
 - No restaurant listings were purchased or sponsored.
 - The map is based on a limited fieldwork sample and reflects the authors' observational viewpoint.
 - The project is provided as an open educational resource for non-commercial use.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file in the repository root for details.
+
