@@ -152,3 +152,8 @@ Info301-Final-Project/
 - No restaurant listings were purchased or sponsored.
 - The map is based on a limited fieldwork sample and reflects the authors' observational viewpoint.
 - The project is provided as an open educational resource for non-commercial use.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file in the repository root for details.
+
