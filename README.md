@@ -21,10 +21,16 @@ Interactive Cultural Food Map · INFO301 Final Project
 
 ### SDGs contributed
 
-| SDG 4 | SDG 8 |
-| --- | --- |
-| ![SDG4](pictures/SDG4.jpg) <br> SDG 4 | ![SDG8](pictures/SDG8.jpg) <br> SDG 8 |
-| ![SDG11](pictures/SDG11.jpg) <br> SDG 11 | ![SDG17](pictures/SDG17.jpg) <br> SDG 17 |
+<div align="center">
+   <img src="pictures/SDG4.jpg" alt="SDG 4" width="84" />
+   <img src="pictures/SDG8.jpg" alt="SDG 8" width="84" />
+   <img src="pictures/SDG11.jpg" alt="SDG 11" width="84" />
+   <img src="pictures/SDG17.jpg" alt="SDG 17" width="84" />
+
+   <p>
+   🎓 **SDG 4 — Quality Education** &nbsp;&nbsp; 💼 **SDG 8 — Decent Work** &nbsp;&nbsp; 🏙️ **SDG 11 — Sustainable Cities** &nbsp;&nbsp; 🤝 **SDG 17 — Partnerships**
+   </p>
+</div>
 
 ---
 
