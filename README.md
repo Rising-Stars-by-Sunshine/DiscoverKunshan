@@ -2,28 +2,20 @@
   <h1>🥢 Discover Kunshan · 昆山美食文化互动地图</h1>
   <p style="max-width:760px;margin:0 auto;font-size:1.1rem;color:#444;">Interactive Cultural Food Map · INFO301 Final Project</p>
 
-  <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin:22px 0;">
-    <a href="front.html" style="text-decoration:none;">
-      <button style="cursor:pointer;border:none;padding:12px 22px;border-radius:999px;background:#1f74ff;color:#fff;font-weight:700;">Live Demo</button>
-    </a>
-    <a href="https://jiaojiao-zhao.github.io/Info301-Final-Project/front.html" style="text-decoration:none;">
-      <button style="cursor:pointer;border:none;padding:12px 22px;border-radius:999px;background:#22b07d;color:#fff;font-weight:700;">GitHub Pages</button>
-    </a>
-    <a href="app.py" style="text-decoration:none;">
-      <button style="cursor:pointer;border:none;padding:12px 22px;border-radius:999px;background:#f5a623;color:#111;font-weight:700;">Python Script</button>
-    </a>
-    <a href="https://github.com/jiaojiao-zhao/Info301-Final-Project" style="text-decoration:none;">
-      <button style="cursor:pointer;border:none;padding:12px 22px;border-radius:999px;background:#333;color:#fff;font-weight:700;">Repository</button>
-    </a>
-  </div>
+  <p align="center">
+    [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-blue?style=for-the-badge)](front.html)
+    [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-View-green?style=for-the-badge)](https://jiaojiao-zhao.github.io/Info301-Final-Project/front.html)
+    [![Python Script](https://img.shields.io/badge/Python%20Script-Open-yellow?style=for-the-badge&logo=python&logoColor=white)](app.py)
+    [![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/jiaojiao-zhao/Info301-Final-Project)
+  </p>
 
-  <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin-bottom:18px;">
-    <span style="display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:#e0f2ff;color:#0b4b8c;font-weight:700;">Python</span>
-    <span style="display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:#ffeedd;color:#7a3f00;font-weight:700;">HTML</span>
-    <span style="display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:#f0f0f0;color:#1a1a1a;font-weight:700;">CSS</span>
-    <span style="display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:#e7f8ff;color:#007293;font-weight:700;">Folium</span>
-    <span style="display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:#ffe5f0;color:#8b2c6a;font-weight:700;">Pandas</span>
-  </div>
+  <p align="center">
+    ![Python](https://img.shields.io/badge/Python-3.10-blue)
+    ![HTML](https://img.shields.io/badge/HTML5-orange)
+    ![CSS](https://img.shields.io/badge/CSS3-blue)
+    ![Folium](https://img.shields.io/badge/Folium-Map-brightgreen)
+    ![Pandas](https://img.shields.io/badge/Pandas-Data-lightgrey)
+  </p>
 </div>
 
 <div style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;align-items:flex-start;margin:0 auto 32px;max-width:1000px;">
@@ -43,32 +35,23 @@
     <div style="margin-top:22px;">
       <a id="sdgs-contributed"></a>
       <h3 style="margin-bottom:14px;font-size:1.2rem;color:#152242;">SDGs contributed</h3>
-      <div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;">
-        <figure style="margin:0;padding:0;text-align:center;">
-          <img src="pictures/SDG4.jpg" alt="SDG 4" style="width:100%;border-radius:14px;box-shadow:0 10px 22px rgba(0,0,0,0.1);" />
-          <figcaption style="font-size:0.92rem;margin-top:10px;color:#333;">SDG 4</figcaption>
-        </figure>
-        <figure style="margin:0;padding:0;text-align:center;">
-          <img src="pictures/SDG8.jpg" alt="SDG 8" style="width:100%;border-radius:14px;box-shadow:0 10px 22px rgba(0,0,0,0.1);" />
-          <figcaption style="font-size:0.92rem;margin-top:10px;color:#333;">SDG 8</figcaption>
-        </figure>
-        <figure style="margin:0;padding:0;text-align:center;">
-          <img src="pictures/SDG11.jpg" alt="SDG 11" style="width:100%;border-radius:14px;box-shadow:0 10px 22px rgba(0,0,0,0.1);" />
-          <figcaption style="font-size:0.92rem;margin-top:10px;color:#333;">SDG 11</figcaption>
-        </figure>
-        <figure style="margin:0;padding:0;text-align:center;">
-          <img src="pictures/SDG17.jpg" alt="SDG 17" style="width:100%;border-radius:14px;box-shadow:0 10px 22px rgba(0,0,0,0.1);" />
-          <figcaption style="font-size:0.92rem;margin-top:10px;color:#333;">SDG 17</figcaption>
-        </figure>
+      <div>
+
+| SDG 4 | SDG 8 |
+| --- | --- |
+| ![SDG4](pictures/SDG4.jpg) <br> SDG 4 | ![SDG8](pictures/SDG8.jpg) <br> SDG 8 |
+| ![SDG11](pictures/SDG11.jpg) <br> SDG 11 | ![SDG17](pictures/SDG17.jpg) <br> SDG 17 |
+
       </div>
     </div>
   </div>
 
-  <div style="flex:0 1 340px;min-width:280px;max-width:420px;">
-    <a href="posters/DiscoverKunshanPoster.pdf" style="text-decoration:none;display:block;">
-      <img src="posters/DiscoverKunshanPoster.png" alt="Discover Kunshan Poster" style="width:100%;border-radius:18px;box-shadow:0 20px 45px rgba(0,0,0,0.16);" />
-    </a>
-    <p style="margin:14px 0 0;color:#555;font-size:0.97rem;line-height:1.6;">Poster preview — <a href="posters/DiscoverKunshanPoster.pdf" style="color:#1f74ff;text-decoration:none;font-weight:700;">Download full PDF</a></p>
+  <div>
+
+[![Discover Kunshan Poster](posters/DiscoverKunshanPoster.png)](posters/DiscoverKunshanPoster.pdf)
+
+Poster preview — [Download full PDF](posters/DiscoverKunshanPoster.pdf)
+
   </div>
 </div>
 
@@ -163,13 +146,13 @@ Discover Kunshan through a static, interactive cultural food map that blends geo
 
 <div style="display:grid;gap:16px;margin:18px 0 28px;">
   <p style="color:#334155;line-height:1.8;">Use the quick access buttons below to explore the project, view the deployed map, or inspect the source code and library references.</p>
-  <div class="resource-row">
-    <a class="button-link" href="front.html"><button style="background:#1f74ff;color:#fff;">Open Live Demo</button></a>
-    <a class="button-link" href="https://jiaojiao-zhao.github.io/Info301-Final-Project/front.html"><button style="background:#22b07d;color:#fff;">View GitHub Pages</button></a>
-    <a class="button-link" href="https://github.com/jiaojiao-zhao/Info301-Final-Project"><button style="background:#111827;color:#fff;">Read Source</button></a>
-    <a class="button-link" href="https://python-visualization.github.io/folium/"><button style="background:#0a76d9;color:#fff;">Folium Docs</button></a>
-    <a class="button-link" href="https://pandas.pydata.org/"><button style="background:#1d6d4b;color:#fff;">Pandas Docs</button></a>
-  </div>
+  <p align="center">
+    [![Open Live Demo](https://img.shields.io/badge/Open%20Live%20Demo-blue?style=for-the-badge)](front.html)
+    [![View GitHub Pages](https://img.shields.io/badge/View%20GitHub%20Pages-green?style=for-the-badge)](https://jiaojiao-zhao.github.io/Info301-Final-Project/front.html)
+    [![Read Source](https://img.shields.io/badge/Read%20Source-black?style=for-the-badge&logo=github)](https://github.com/jiaojiao-zhao/Info301-Final-Project)
+    [![Folium Docs](https://img.shields.io/badge/Folium-Docs-blue?style=for-the-badge)](https://python-visualization.github.io/folium/)
+    [![Pandas Docs](https://img.shields.io/badge/Pandas-Docs-lightgrey?style=for-the-badge)](https://pandas.pydata.org/)
+  </p>
 </div>
 
 ---
