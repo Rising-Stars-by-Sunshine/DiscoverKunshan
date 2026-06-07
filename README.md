@@ -19,11 +19,7 @@ Interactive Cultural Food Map · INFO301 Final Project
 - [Reproducibility](#reproducibility)
 - [Ethics & Transparency](#ethics--transparency)
 
-### SDGs contributed
 
-*(See poster and SDG contributions under Project Overview)*
-
----
 
 ## Project Overview
 
