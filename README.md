@@ -1,4 +1,6 @@
-# 🥢 Discover Kunshan · 昆山美食文化互动地图 [![DOI](https://zenodo.org/badge/1261714226.svg)](https://doi.org/10.5281/zenodo.20577097)
+# 🥢 Discover Kunshan · 昆山美食文化互动地图 
+
+[![DOI](https://zenodo.org/badge/1261714226.svg)](https://doi.org/10.5281/zenodo.20577097)
 
 Interactive Cultural Food Map · INFO301 Final Project
 
