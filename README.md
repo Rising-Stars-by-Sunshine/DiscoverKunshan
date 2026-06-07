@@ -36,7 +36,7 @@ Discover Kunshan through a static, interactive cultural food map that blends geo
 
 | SDGs contributed | Poster |
 | --- | --- |
-| <img src="pictures/SDG4.jpg" width="64" alt="SDG4" /> <img src="pictures/SDG8.jpg" width="64" alt="SDG8" /> <img src="pictures/SDG11.jpg" width="64" alt="SDG11" /> <img src="pictures/SDG17.jpg" width="64" alt="SDG17" /> <br> **🎓 SDG 4 — Quality Education** &nbsp; **💼 SDG 8 — Decent Work** &nbsp; **🏙️ SDG 11 — Sustainable Cities** &nbsp; **🤝 SDG 17 — Partnerships** | <a href="posters/DiscoverKunshanPoster.pdf"><img src="posters/DiscoverKunshanPoster.png" width="220" alt="Discover Kunshan Poster" /></a><br>[Download full PDF](posters/DiscoverKunshanPoster.pdf) |
+| <table><tr><td align="center"><img src="pictures/SDG4.jpg" width="64" alt="SDG4" /><br>**🎓 SDG 4**<br>Quality Education</td><td align="center"><img src="pictures/SDG8.jpg" width="64" alt="SDG8" /><br>**💼 SDG 8**<br>Decent Work</td></tr><tr><td align="center"><img src="pictures/SDG11.jpg" width="64" alt="SDG11" /><br>**🏙️ SDG 11**<br>Sustainable Cities</td><td align="center"><img src="pictures/SDG17.jpg" width="64" alt="SDG17" /><br>**🤝 SDG 17**<br>Partnerships</td></tr></table> | <a href="posters/DiscoverKunshanPoster.pdf"><img src="posters/DiscoverKunshanPoster.png" width="220" alt="Discover Kunshan Poster" /></a><br>[Download full PDF](posters/DiscoverKunshanPoster.pdf) |
 
 ---
 
